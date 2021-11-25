@@ -58,7 +58,7 @@ second_pointcloud = api.pointcloud_episode.upload_path(sequence.id,
 
 
 """
-STEP 2 — Upload photo context and attach it to frame
+STEP 2 (OPTIONAL) — Upload photo context and attach it to frame
 
 Using bulk upload method. 
 At first we load all images to server and get hashes from it.
