@@ -206,7 +206,7 @@ downloaded_project_dir = "downloaded_project"
 # Download whole project or sequence (can be selected by list of seuqence_ids in dataset_ids parameter)
 download_pointcloud_episode_project(api, project.id, downloaded_project_dir, dataset_ids=None,
                                         download_pcd=True,
-                                        download_realated_images=True,
+                                        download_related_images=True,
                                         download_annotations=True,
                                         log_progress=True)
 
